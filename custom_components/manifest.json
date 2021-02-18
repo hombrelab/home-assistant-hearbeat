@@ -1,0 +1,16 @@
+{
+  "domain": "heartbeat",
+  "name": "Heartbeat",
+  "version": "1.0.000",
+  "config_flow": true,
+  "documentation": "https://github.com/hombrelab/home-assistant-heartbeat/",
+  "issue_tracker": "https://github.com/hombrelab/home-assistant-heartbeat/issues",
+  "dependencies": [
+    "mqtt"
+  ],
+  "after_dependencies": [],
+  "codeowners": [
+    "@hombrelab"
+  ],
+  "requirements": []
+}
